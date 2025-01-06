@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Fri Nov 15 20:50:20 2024
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : neural_network_top
+Top-level Entity Name : neural_network_top
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 1099
+Total pins : 19
+Total virtual pins : 0
+Total block memory bits : 11,392
+Total DSP Blocks : 24
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0
